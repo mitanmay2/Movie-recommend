@@ -4,6 +4,7 @@ venv/
 .env
 *.pkl
 *.csv
+!recommendations.json
 .DS_Store
 .git/
 .vscode/
@@ -12,3 +13,4 @@ venv/
 *.egg-info/
 dist/
 build/
+
